@@ -1,0 +1,2 @@
+# aft-token-assets
+AFT
